@@ -47,7 +47,7 @@ The crawler identifies product URLs using several strategies:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ecommerce-crawler.git
+   git clone https://github.com/Siyavar01/Ecommerce_Crawler
    cd ecommerce-crawler
    ```
 
